@@ -1,7 +1,6 @@
 {
   "name": "cdd",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -23,5 +22,17 @@
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
     "typescript": "5.1.3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoxPistols/cdd.git"
+  },
+  "author": "boxpistols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoxPistols/cdd/issues"
+  },
+  "homepage": "https://github.com/BoxPistols/cdd#readme"
 }

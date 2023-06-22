@@ -1,7 +1,7 @@
 import React from "react"
 import { Button } from "@mui/material"
 
-const MyCustomComponent: React.VFC = () => {
+const MyComponent: React.VFC = () => {
   return (
     <Button variant="contained" color="primary">
       Click Me
@@ -9,4 +9,4 @@ const MyCustomComponent: React.VFC = () => {
   )
 }
 
-export default MyCustomComponent
+export default MyComponent
